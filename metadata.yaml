@@ -1,0 +1,28 @@
+_repo: The-Pentecost-of-Calamity_32098
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Wister, Owen
+    birthdate: 1860
+    deathdate: 1938
+    gutenberg_agent_id: '450'
+    url: http://www.gutenberg.org/2009/agents/450
+    wikipedia: http://en.wikipedia.org/wiki/Owen_Wister
+description: ''
+gutenberg_issued: '2010-04-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32098'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'D501'
+- !lcsh 'Germany'
+- !lcsh 'World War, 1914-1918'
+title: The Pentecost of Calamity
+url: http://www.gutenberg.org/ebooks/32098
